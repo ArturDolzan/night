@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="demo"
+    errors="0" failures="1" hostname="" id="" package="demo" skipped="0"
+    tests="2" time="5.933" timestamp="">
+  
+    <testcase name="step one: navigate to google" classname="demo" time="1.694" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="step two: click input" classname="demo" time="4.239" assertions="1">  <failure message="Testing if element &lt;#main&gt; contains text: &#34;Night Watch&#34; in 1000 ms. - expected [0;32m&#34;Night Watch&#34;[0m but got: [0;31m&#34;Modos de pesquisa
+Todas
+Maps
+Shopping
+Imagens
+Notícias
+Mais
+Configurações
+Ferramentas
+Aproximadamente 82.100.000 resultados (0,58 segundos) 
+
+
+Resultados da pesquisa
+Resultado da Web com links de sites
+Useall - Softwares para uma Gestão Inteligente
+www.useall.com.br
+Nós somos a Useall e queremos tornar sua empresa mais competitiva a partir da tecnologia aplicada aos negócios.
+Suporte Técnico
+Suporte Técnico. A Useall além de softwares completos e ...
+Soluções
+Soluções. A Useall tem a solução certa para sua empresa ...
+Trabalhe Conosco
+Trabalhe na Useall. Nosso ambiente é propício para a ...
+Saiba Mais
+Queremos tornar sua empresa mais competitiva a partir da ...
+Contato
+Em que podemos ajudá-lo? Nossa equipe de atendimento ao ...
+Setor Elétrico
+Soluções. A Useall tem a solução certa para sua empresa ...
+Mais resultados de useall.com.br »
+Resultados da Web
+Useall Software - Página inicial | Facebook
+https://pt-br.facebook.com › Locais › Criciúma › Serviço comercial
+Avaliação: 5 - 28 votos
+Useall Software - Rua Visconde de Cairú, 630, 88804-050 Criciúma - Classificação de 5 baseada em 28 avaliações &#34;Uma das melhores empresas para com ...
+Useall Software - Home | Facebook
+https://www.facebook.com › Places › Criciúma › Business Service
+Avaliação: 5 - 28 votos
+Useall Software - Rua Visconde de Cairú, 630, 88804-050 Criciúma - Rated 5 based on 28 Reviews &#34;Uma das melhores empresas para com seus funcionários.
+Useall Software | LinkedIn
+https://pt.linkedin.com › company › useall-software-ltda
+Saiba mais sobre como é trabalhar na Useall Software. Cadastre-se no LinkedIn hoje de graça. Veja quem você conhece na Useall Software, aproveite sua ...
+Oséias da Silva Martins - Analista de sistemas - Useall ...
+https://br.linkedin.com › oséias-da-silva-martins-a3291579
+Visualize o perfil de Oséias da Silva Martins no LinkedIn, a maior comunidade profissional do mundo. Oséias tem 3 empregos no perfil. Visualize o perfil ...
+Useall App – Apps no Google Play
+https://play.google.com › store › apps › details › id=br.com.useallcloud.us...
+Avaliação: 4,8 - 26 votos - Gratuito - Android - Negócios e produtividade
+O Useall App é uma plataforma colaborativa de comunicação interna, uma ferramenta unificada para trabalho em sua empresa. A solução torna o trabalho mais ...
+Avaliações da Useall | Glassdoor.com.br
+https://www.glassdoor.com.br › Avaliações › Useall › Useall
+Avaliação: 2,4 - 15 comentários
+13 de set. de 2019 - 15 avaliações de Useall. Visão interna gratuita das avaliações da empresa e dos salários publicados de forma anônima pelos funcionários.
+Pesquisas relacionadas a useall
+useall vagas
+useall login
+useall trabalhe conosco
+useall sorocaba
+useall i2
+useall suporte tecnico
+empresa software criciuma
+sistema criciuma
+Navegação nas páginas
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Mais
+Resultados complementares
+Resultado do Mapa de informações
+Ver fotos
+Ver por fora
+Useall Software
+Como chegar
+Salvar
+4,8
+83 comentários no Google
+Empresa de software em Criciúma, Santa Catarina
+Endereço: R. Visc. de Cairú, 630 - Sala 01 - Santa Barbara, Criciúma - SC, 88804-320
+Horário:
+Aberto ⋅ Fecha às 12:00 ⋅ Reabre às 13:30
+
+Telefone: (48) 3411-0600
+Sugerir uma alteração
+
+
+Adicionar informações ausentes
+Adicionar website
+
+Perguntas e respostas
+Fazer uma pergunta
+Ver todas as perguntas (2)
+Avaliações da Web
+Facebook
+5/5
+28 votos
+Love Mondays
+2,4/5
+15 comentários
+Comentários
+Comentar
+Adicionar uma foto
+&#34;Visita de cliente, MUITO bem atendido, secretária recepcionista muito atenciosa.&#34;
+&#34;Uma das melhores e maiores empresas de software do sul de Santa Catarina.&#34;
+Visualizar todos os comentários do Google
+Atualizações de: Useall Software
+Ver atualizações anteriores no Google
+Itens também pesquisados
+Ver + 15
+Ema Software
+Empresa de Software
+Horr Sistemas Ltda
+Empresa de Software
+TW Sistemas
+Empresa de Software
+Feedback
+
+
+Links do rodapé
+BrasilCriciúma, Santa Catarina - Do seu endereço IP - Usar local preciso - Saiba mais
+AjudaEnviar feedbackPrivacidadeTermos&#34;[0m">    at Object.step two: click input (C:\night\tests\demo.js:14:17)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)</failure>
+
+    <failure message="    at Object.step two: click input (C:\night\tests\demo.js:14:17)">    at process.internalTickCallback (internal/process/next_tick.js:77:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
